@@ -1,0 +1,86 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "nominal": 5000,
+            "price": 6500
+        },
+        {
+            "id": 2,
+            "nominal": 10000,
+            "price": 11500
+        },
+        {
+            "id": 3,
+            "nominal": 15000,
+            "price": 16500
+        },
+        {
+            "id": 4,
+            "nominal": 20000,
+            "price": 21500
+        },
+        {
+            "id": 5,
+            "nominal": 25000,
+            "price": 26500
+        },
+        {
+            "id": 6,
+            "nominal": 30000,
+            "price": 31500
+        },
+        {
+            "id": 7,
+            "nominal": 40000,
+            "price": 41500
+        },
+        {
+            "id": 8,
+            "nominal": 50000,
+            "price": 51500
+        },
+        {
+            "id": 9,
+            "nominal": 75000,
+            "price": 76500
+        },
+        {
+            "id": 10,
+            "nominal": 100000,
+            "price": 101500
+        },
+        {
+            "id": 11,
+            "nominal": 150000,
+            "price": 151500
+        },
+        {
+            "id": 12,
+            "nominal": 200000,
+            "price": 201500
+        },
+        {
+            "id": 13,
+            "nominal": 300000,
+            "price": 301500
+        },
+        {
+            "id": 14,
+            "nominal": 500000,
+            "price": 501500
+        },
+        {
+            "id": 15,
+            "nominal": 1000000,
+            "price": 1001500
+        },
+        {
+            "id": 16,
+            "nominal": 1500000,
+            "price": 1501500
+        }
+        
+    ]
+}
