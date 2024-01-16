@@ -14,8 +14,11 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: MyHomePage(),
+    return MaterialApp(
+      home: const MyHomePage(),
+      theme: ThemeData(
+        useMaterial3: false,
+      ),
     );
   }
 }
@@ -193,8 +196,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                   PulsaModel(id: 0, nominal: 0, price: 0);
                             });
                           });
-                          return LottieBuilder.network(
-                              'https://assets4.lottiefiles.com/packages/lf20_vuliyhde.json');
+                          return LottieBuilder.asset('assets/success.json');
                         },
                       );
                     },
